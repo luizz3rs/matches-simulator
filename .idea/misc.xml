@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/rigby/AndroidStudioProjects/Simulator/app/src/main/res/layout/activity_main.xml" value="0.26268115942028986" />
+        <entry key="..\:/Users/rigby/AndroidStudioProjects/matches-simulator/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2985" />
+        <entry key="..\:/Users/rigby/AndroidStudioProjects/matches-simulator/app/src/main/res/layout/activity_detail.xml" value="0.33" />
+        <entry key="..\:/Users/rigby/AndroidStudioProjects/matches-simulator/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/rigby/AndroidStudioProjects/matches-simulator/app/src/main/res/layout/match_item.xml" value="0.33" />
       </map>
     </option>
   </component>
@@ -12,5 +16,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>
